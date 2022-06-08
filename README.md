@@ -1,2 +1,2 @@
-# Trail-Birb
+# Trail Birb
 Birb Trails enables it so that you can see trials and on downgraded versions it makes seeing your hands easier!
